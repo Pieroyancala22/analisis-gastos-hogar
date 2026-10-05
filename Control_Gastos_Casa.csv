@@ -1,0 +1,58 @@
+﻿CONTROL DE GASTOS DE LA CASA;;;;;;;;;;;;
+;;;;;;;;;;;;
+Fecha;Gasto / Detalle;Categoría;Monto (S/);Financiado por;ID ENTRADA;MONTO INGRESO;DESCRIPCION;;;;;
+30/08/2026;Compras general;Hogar / Alimentación;S/112.70;E5;E1;300;Comida;;;;;Entrada
+30/08/2026;Verduras Tuberculos;Alimentación;S/38.80;E5;E2;10;Mascotas;;;;;300
+30/08/2026;Pollo dos pechos;Alimentación;S/31.90;E5;E3;10;Limpieza;;;;;10
+30/08/2026;Carne;Alimentación;S/23.00;E5;E4;24.52;Alimentacion;;;;;10
+30/08/2026;Especerias;Alimentación;S/3.00;E5;E5;1300;Servicios y Alimentos;;;;;24.52
+30/08/2026;Ceviche;Alimentación;S/16.00;E5;E6;10;Gustos;;;;;1300
+30/08/2026;Servicios;Servicios Básicos;S/1,050.00;E5;E7;10;Mascotas;;;;;
+01/09/2026;Gaseosa;Gustos / Antojos;S/10.00;E5;E8;73;Alimentacion;;;;;
+01/09/2026;Gustito;Gustos / Antojos;S/10.00;E5;E9;20;Gustos;;;;;
+01/09/2026;Comida de gato;Mascotas;S/10.00;E5;E10;25;Limpieza;;;;;
+01/09/2026;Pastilla para el estomago;Salud;S/4.50;E5;E11;100;Alimentacion;;;;;
+05/09/2026;Detergente;Limpieza;S/7.00;E3;E12;40;Limpieza;;;;;
+05/09/2026;Lejia;Limpieza;S/2.00;E3;E13;17;Gustos;;;;;
+5/09/2026;Comida de gato;Mascotas;S/10.00;E2;E14;10;Mascotas;;;;;
+05/09/2026;Aceite PR TT 900ML (4 un);Alimentación;S/27.60;E1;E15;8;Gustos;;;;;
+05/09/2026;Ají de pollería (2 un);Alimentación;S/3.00;E1;E16;20;Alimentacion;;;;;
+05/09/2026;Azúcar Azrubmanx 5KG (2 un);Alimentación;S/34.60;E1;E17;10;Pasaje;;;;;
+05/09/2026;Avena Ball 130;Alimentación;S/15.50;E1;E18;10;Mascotas;;;;;
+05/09/2026;Cod Ray X250GR;Alimentación;S/1.80;E1;E19;80;Internet;;;;;
+05/09/2026;Huevos 30U;Alimentación;S/12.90;E1;E20;10;Chicha;;;;;
+05/09/2026;Mandarina x KG;Alimentación;S/2.85;E1;E21;60;Alimentacion;;;;;
+05/09/2026;Mayonesa PU 47;Alimentación;S/4.20;E1;E22;;;;;;;
+05/09/2026;Mezcla Láctea SI (4 un);Alimentación;S/75.60;E1;E23;;;;;;;
+05/09/2026;Mostaza Alacena;Alimentación;S/7.90;E1;;;;;;;;
+05/09/2026;Pas Cara To 25;Alimentación;S/1.20;E1;;;;;;;;
+05/09/2026;Pollo Rostizado;Alimentación;S/20.00;E1;;;;;;;;
+05/09/2026;Porción de papas;Alimentación;S/7.90;E1;;;;;;;;
+05/09/2026;Salsa Rosada S;Alimentación;S/9.90;E1;;;;;;;;
+05/09/2026;Sillao PU 500M;Alimentación;S/2.70;E1;;;;;;;;
+05/09/2026;Espagueti PU 450G (6 un);Alimentación;S/11.40;E1;;;;;;;;
+7/09/2026;Frijol Canar;Alimentación;S/6.10;E4;;;;;;;;
+7/09/2026;Frijol Panam;Alimentación;S/3.51;E4;;;;;;;;
+7/09/2026;Lenteja Ameri;Alimentación;S/3.96;E4;;;;;;;;
+7/09/2026;Pallares x kilo;Alimentación;S/5.40;E4;;;;;;;;
+7/09/2026;Pallares x kilo;Alimentación;S/5.55;E4;;;;;;;;
+8/09/2026;Gustito;Gustos / Antojos;S/10.00;E6;;;;;;;;
+9/09/2026;Comida de gato;Mascotas;S/10.00;E7;;;;S/2,075.97;;;;
+9/09/2026;Rocoto y lechuga;Alimentación;S/2.00;E8;;;;;;;;
+12/09/2026;Pollo a la brasa;Alimentación;S/71.00;E8;;;;;;;;
+15/09/2026;Gustito;Gustos / Antojos;S/20.00;E9;;;;;;;;
+18/09/2026;Papel;Limpieza;S/7.50;E10;;;;;;;;
+19/09/2026;Alcohol;Limpieza;S/10.00;E10;;;;;;;;
+20/09/2026;Para la semana;Alimentación;S/100.00;E11;;;;;;;;
+20/09/2026;Lavar ropa;Limpieza;S/40.00;E12;;;;;;;;
+22/09/2026;Gustito;Gustos / Antojos;S/17.00;E13;;;;;;;;
+25/09/2026;Comida de gato;Mascotas;S/10.00;E14;;;;;;;;
+26/09/2026;Gustito;Gustos / Antojos;S/8.00;E15;;;;;;;;
+27/09/2026;Verduras Tuberculos;Alimentación;S/12.00;E16;;;;;;;;
+28/09/2026;Pasaje;Servicios Básicos;S/10.00;E17;;;;;;;;
+29/09/2026;Comida de gato;Mascotas;S/10.00;E18;;;;;;;;
+1/10/2026;Internet;Servicios Básicos;S/80.00;E19;;;;;;;;
+2/10/2026;Chicha;Gustos / Antojos;S/10.00;E20;;;;;;;;
+3/10/2026;Papas ;Alimentación;S/15.00;E21;;;;;;;;
+3/10/2026;Pollo entero pecho;Alimentación;S/14.50;E21;;;;;;;;
+3/10/2026;Carne;Alimentación;S/26.50;E21;;;;;;;;
